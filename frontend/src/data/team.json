@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "src": "https://uploads-ssl.webflow.com/626781ff3063516ad2e5face/626783f6be315034a0a0adf9_demo_1-p-500.png",
+    "name": "Abhinav",
+    "role": "Artist | Web Dev"
+  },
+  {
+    "id": 2,
+    "src": "https://uploads-ssl.webflow.com/626781ff3063516ad2e5face/626783f614c06c6aa211be51_demo_7-p-500.png",
+    "name": "Aaryan",
+    "role": "Marketing | Smart Contract"
+  },
+  {
+    "id": 3,
+    "src": "https://uploads-ssl.webflow.com/626781ff3063516ad2e5face/626783f6e158e34fc62d7fcb_demo_11-p-500.png",
+    "name": "Adeesh",
+    "role": "Developer"
+  }
+]
