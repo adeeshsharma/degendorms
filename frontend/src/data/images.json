@@ -1,17 +1,27 @@
 [
-    {
-      "id": 1,
-      "src": "https://uploads-ssl.webflow.com/626781ff3063516ad2e5face/626783f6be315034a0a0adf9_demo_1-p-500.png",
-      "background": "https://uploads-ssl.webflow.com/626781ff3063516ad2e5face/6267843f00042278f9fbe52c_demo_10%20(Medium).png"
-    },
-    {
-      "id": 2,
-      "src": "https://uploads-ssl.webflow.com/626781ff3063516ad2e5face/626783f614c06c6aa211be51_demo_7-p-500.png",
-      "background": "https://uploads-ssl.webflow.com/626781ff3063516ad2e5face/6267843e0b177c8a9db6567b_demo_7%20(Medium).png"
-    },
-    {
-      "id": 3,
-      "src": "https://uploads-ssl.webflow.com/626781ff3063516ad2e5face/626783f6e158e34fc62d7fcb_demo_11-p-500.png",
-      "background": "https://uploads-ssl.webflow.com/626781ff3063516ad2e5face/6267843d0192cbf6780b7cd1_demo_11%20(Medium).png"
-    }
+  {
+    "id": 1,
+    "src": "/assets/images/degen1.jpg",
+    "background": "/assets/images/dorm1.jpg"
+  },
+  {
+    "id": 2,
+    "src": "/assets/images/degen2.jpg",
+    "background": "/assets/images/dorm2.jpg"
+  },
+  {
+    "id": 3,
+    "src": "/assets/images/degen3.jpg",
+    "background": "/assets/images/dorm3.jpg"
+  },
+  {
+    "id": 4,
+    "src": "/assets/images/degen4.jpg",
+    "background": "/assets/images/dorm4.jpg"
+  },
+  {
+    "id": 5,
+    "src": "/assets/images/degen5.jpg",
+    "background": "/assets/images/dorm5.jpg"
+  }
 ]

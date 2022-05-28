@@ -10,7 +10,11 @@ const Footer = () => {
         <a href="/">
           <img className="w-32" src={Logo} alt="" />
         </a>
-        <h4 className="font-medium">COMING SOON!</h4>
+        <a href="https://nftgarage.world/fantom/degendorms" target="_blank">
+          <h4 className="font-medium" style={{ color: "#ffb900" }}>
+            MINT ON NFT GARAGE!
+          </h4>
+        </a>
         <div className="flex gap-4">
           <a
             href="https://twitter.com/DegenDorms"
